@@ -1,4 +1,4 @@
-include <stdio.h>
+#include <stdio.h>
 #include <alsa/asoundlib.h>
 #include <alsa/mixer.h>
 #include <mpg123.h>
